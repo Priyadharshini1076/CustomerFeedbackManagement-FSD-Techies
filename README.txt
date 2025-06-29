@@ -4,7 +4,7 @@
 The **Customer Feedback System** is a Java-based console application that 
 allows users to submit feedback and ratings for different domains such as
 FSD, WD, IMS, SD, and MAYA. Admins can view, respond to, and manage the
-feedback.The systemalso identifies the top-rated domain based on average ratings.
+feedback.The systemalso identifies the top-rated domain based on average ratings
 
 ---
 
