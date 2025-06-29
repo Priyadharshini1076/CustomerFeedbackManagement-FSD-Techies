@@ -93,3 +93,10 @@ This project is for educational purposes.
 
 ## ✍️ Author
 Team Leaded By Priyadharshini TR 
+
+Institution:
+------------
+KG College Of Arts And Science
+Department of Computer Technology
+Mini Project Submission – Full Stack Development
+Submission Date: 30/06/2025
